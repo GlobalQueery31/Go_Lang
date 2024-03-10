@@ -7,4 +7,7 @@ func main() {
 	slice2 := []int {1,2,3,4}
 	fmt.Println(slice1)
 	fmt.Println(slice2)
+	slice2 = append(slice2,45)
+
+	fmt.Println(slice2)
 }

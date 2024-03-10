@@ -1,0 +1,10 @@
+Go_routines:
+
+1.Main routine 
+2.Child routine
+3.Go scheduler
+
+Channels :
+
+Pipes using which Go_routines Communicates
+- provides synchronization
